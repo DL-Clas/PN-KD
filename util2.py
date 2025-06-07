@@ -1,3 +1,6 @@
+"""
+Targeted Knowledge Distillation based on Corrective Attention
+"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
