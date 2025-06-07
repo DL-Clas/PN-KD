@@ -1,3 +1,7 @@
+"""
+Main file for intensive learning compression
+"""
+
 import torch
 import numpy as np
 import gymnasium as gym
