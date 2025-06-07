@@ -1,3 +1,6 @@
+"""
+Differential Knowledge Distillation by Samples Graphical Representation
+"""
 import torch
 import torch.nn as nn
 import torch_geometric.data as geom_data
